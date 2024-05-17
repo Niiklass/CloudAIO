@@ -1,0 +1,8 @@
+{
+  "version": "1.1",
+  "files": {
+    "my_app.exe": "https://raw.githubusercontent.com/dein-benutzername/my_app_updates/main/my_app.exe",
+    "data.csv": "https://raw.githubusercontent.com/dein-benutzername/my_app_updates/main/data.csv",
+    "config.json": "https://raw.githubusercontent.com/dein-benutzername/my_app_updates/main/config.json"
+  }
+}
