@@ -1,6 +1,6 @@
 {
   "version": "1.2",
   "files": {
-    "CloudAio.exe": "https://raw.githubusercontent.com/Niiklass/CloudAIO/main/ebay_filtered_results.csv"
+    "Ebayresults.csv": "https://raw.githubusercontent.com/Niiklass/CloudAIO/main/ebay_filtered_results.csv"
   }
 }
